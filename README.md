@@ -1,4 +1,3 @@
-```markdown
 # Customer Segmentation Analytics using CRISP-DM, K-Means and SAS
 
 ## Project Overview
@@ -6,7 +5,6 @@
 This project presents a customer segmentation and decision-support analysis developed as part of my M.Sc. in Informatics. The project applies the **CRISP-DM framework** to analyze customer purchasing behaviour and identify meaningful customer groups using unsupervised learning.
 
 The analysis was based on a retail dataset of approximately **3,900 customers**, using behavioural, demographic, purchasing, and satisfaction-related variables. The main goal was to transform raw customer data into interpretable customer segments that can support customer relationship management, marketing planning, KPI design, and business decision-making.
-
 
 ---
 
@@ -229,4 +227,3 @@ This project demonstrates skills in:
 **Diaa Abu Arar**  
 M.Sc. Informatics | IT, Data & Operations Analytics  
 LinkedIn: [linkedin.com/in/diaa-abu-arar](https://www.linkedin.com/in/diaa-abu-arar)
-```
